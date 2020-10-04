@@ -1,0 +1,25 @@
+
+.liClass {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 1rem;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: .5rem;
+}
+
+.inputClass {
+    margin-right: 1rem;
+}
+
+.rm {
+    background: red;
+    border-radius: 50%;
+    color: white;
+    border: none;
+}
+
+.done {
+    text-decoration: line-through;
+}
